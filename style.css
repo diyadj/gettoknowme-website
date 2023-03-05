@@ -42,17 +42,17 @@ section {
     background-attachment: fixed;
 }
 
-#hero .profile-img {
+/*#hero .profile-img {
     width: 250px;
     border-radius: 50%;
-}
+}*/
 
 footer {
     text-align: center;
     padding: 50px;
 }
 
-/* Add everything below here */
+
 
 #hero h1 {
     font-size: 3em;
